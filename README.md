@@ -78,18 +78,3 @@ The upcoming phase will focus on:
 - Integrating **predictive analytics** to forecast future sales, workforce performance, and customer behavior.  
 - Connecting live business systems (CRM, HR, sales platforms) for production-grade dashboard integration and enhanced decision-making accuracy.
 
----
-
-### 📁 Repo Structure (suggested)  
-├── Dashboard/
-│ └── Sales & Customer Dashboard.twbx
-| └── customer_dashboard.png
-| └── sales_dashboard.png
-├── Dataset/
-│ ├── Customers.csv
-| └── Location.csv
-| └── Orders.csv
-| └── Products.csv
-├── Images/
-│ └── Icons
-└── README.md
