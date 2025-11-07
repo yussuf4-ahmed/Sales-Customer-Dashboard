@@ -80,9 +80,16 @@ The upcoming phase will focus on:
 
 ---
 
-## 🏷 Project Type  
-**Data Analytics | Sales & Customer | Python | Tableau Visualization**
-
----
-
 ### 📁 Repo Structure (suggested)  
+├── Dashboard/
+│ └── Sales & Customer Dashboard.twbx
+| └── customer_dashboard.png
+| └── sales_dashboard.png
+├── Dataset/
+│ ├── Customers.csv
+| └── Location.csv
+| └── Orders.csv
+| └── Products.csv
+├── Images/
+│ └── Icons
+└── README.md
